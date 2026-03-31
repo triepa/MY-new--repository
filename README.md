@@ -1,8 +1,9 @@
 # MY-new--repository
+
 <!DOCTYPE html>
 <html>
   <head>
-    <title>최근보</title>
+    <title>웹페이지 제목</title>
     </head>
 <body>
   <h1>제목</h1>
