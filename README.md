@@ -1,12 +1,14 @@
 # MY-new--repository
 
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
-    <title>웹페이지 제목</title>
+  <meta charset="UTF-8">
+    <title>나의 프로필</title>
 </head>
 <body>
-  <h1>제목</h1>
-  <p>내용</p>
+  <h1>최근보</h1>
+  <p>임공을 전공하는 대학생입니다</p>
 </body>
 </html>
+
