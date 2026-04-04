@@ -21,3 +21,5 @@
 
 
    ![나루토](https://i.namu.wiki/i/zNEml2afIusip9jvbt3GLFfmxe17FR8muJqE5aoyj11R_nHmxp-SMPLUk8AWNdzA2kniBlYYsL6cDAqI_zxcZHRsGQFxYYHTMww-xRRBM0T_0ro4Ag4916eX1NmWaYd89Fh6xjoyGdPU4DsPzF09fA.webp)
+
+>"이번 공모전의 타켓층은 20대입니다." 
